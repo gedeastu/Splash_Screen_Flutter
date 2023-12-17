@@ -12,7 +12,7 @@ class Home extends StatelessWidget {
             Container(
               width: double.infinity,
               alignment: Alignment.center,
-              child: Text("Welcome"),
+              child: const Text("Welcome"),
             )
           ],
         ),
